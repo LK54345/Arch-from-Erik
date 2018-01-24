@@ -711,7 +711,7 @@ new_float normal
 
 # AZERTY KEYBOARD
 # Change this if you use qwerty
-exec setxkbmap be
+exec setxkbmap us
 
 
 ###################       UNCLUTTER      ##############################
